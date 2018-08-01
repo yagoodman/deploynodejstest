@@ -1,3 +1,5 @@
+Followed [this tutorial](https://www.codeproject.com/Articles/1133660/Deploy-Node-js-in-Microsoft-Azure) to Deploy Node.js in Microsoft Azure straight from this GitHub repository
+
 # Node.js Hello World
 
 This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
